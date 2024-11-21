@@ -1,0 +1,13 @@
+.pannels{
+    
+        border: 3px solid black;
+        border-radius: 20px;
+        background-color:#FFFBDA;
+        width:  90%;
+        height: 90%;
+        padding:20px ;
+        margin: 20px;
+        margin-left: 40px;
+        color: #9d531f;
+    
+}
